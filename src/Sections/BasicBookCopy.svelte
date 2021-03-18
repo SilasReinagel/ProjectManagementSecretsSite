@@ -1,18 +1,22 @@
 <script>
   import Container from '../Elements/Container.svelte';
+  import CtaButton from '../CtaButton.svelte';
 </script>
 
 <Container>
   <div class="height">
+    <b>If You Ever Find Yourself...</b>
     <ul>
-      <li>Do you want to land a project management job with a $120K+ salary?</li>
-      <li>Are you on a project that is behind schedule or over budget?</li>
-      <li>Do you have a high-salary job and want to increase it by $30K+?</li>
-      <li>Are you tired of putting in work on failed or abandoned projects?</li>
-      <li>Do you want your solid projects to run even more smoothly?</li>
+      <li>Tired of putting in work on failed or abandoned projects.</li>
+      <li>Wishing your solo projects would be smoother and easier to finish.</li>
+      <li>Wanting to land a comfy new job with a $120K+ salary.</li>
+      <li>Working on a project that is behind schedule.</li>
+      <li>Fruststrated by being assigned to projects that have great potential but die.</li>
+      <li>Wanting to increase your enterprise salary by $30K+</li>
+      <li>Stressed as you are leading a team on a project that is over budget.</li>
     </ul>
 
-    If you answered YES to any of those questions, then this book is what you need!
+    Then what I’ve put together is meant for you!
 
     <br><br>
 
@@ -31,6 +35,8 @@
     <h3>Reviewer Thoughts:</h3>
 
     "I’ve been reading PM books, taking some courses since 2010 and your book is pure gold, many other courses/books just want you to pay for a certificate when done with the book, the most disappointing is that those diplomas are just a piece of paper or a PDF. Skills in real life matter!" - Raul Martinez (Twitter @LabsSkull)
+
+    <CtaButton/>
   </div>
 </Container>
 

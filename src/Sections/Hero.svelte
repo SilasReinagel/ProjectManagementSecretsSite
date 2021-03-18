@@ -27,7 +27,7 @@
     max-width: 750px;
     margin-top: 1em;
     margin-left: 1em;
-    
+
     top: 45%;
     left: 66%;
     position: absolute;
